@@ -1,3 +1,6 @@
 Pizza
 Hamburguer
 Hot-Dog
+Titanic
+Shrek
+The Lion King
